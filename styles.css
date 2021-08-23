@@ -1,0 +1,70 @@
+body{
+  background: #cfcfcf;
+}
+h1{
+  font-size: 2.5rem;
+  line-height: 2;
+  font-family: cursive;
+  color: #fff;
+}
+h3{
+  font-size: 1rem;
+  font-family: cursive;
+  color: gold;
+}
+h2{
+  font-family: sans-serif;
+
+}
+nav{
+  background-color: #2e2e2e;
+
+}
+/* The id */
+#booktitle{
+  background-color: #2e2e2e;
+  padding: 50px 0;
+
+}
+#story{
+  padding-top:0px;
+}
+#magicCarousel{
+
+}
+#inner-content{
+
+}
+/* the classes */
+.speed{
+  color:#fff;
+}
+.brand{
+  color:#fff;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+.nav-tabs{
+  position: absolute;
+  right: 10px;
+}
+.pages{
+  text-align: center;
+  margin: 10% 25%;
+  line-height: 3rem;
+  font-size: 3rem;
+  font-family: serif;
+  word-spacing: 10px;
+  position: relative;
+}
+.img-size{
+  height: 580px;
+}
+.page-num{
+  position: absolute;
+  bottom: -100px;
+  color: grey;
+  font-family: serif;
+}
