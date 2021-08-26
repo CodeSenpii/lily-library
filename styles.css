@@ -1,5 +1,5 @@
 body{
-  background: #cfcfcf;
+  background-image: url("https://thumbs.dreamstime.com/z/paper-background-flowers-d-paper-illustration-grayscal-grayscale-vector-eps-55406442.jpg");
 }
 h1{
   font-size: 2.5rem;
@@ -44,6 +44,7 @@ nav{
   font-weight: bolder;
   font-size: 1.5rem;
   letter-spacing: 2px;
+  background-image: url();
 }
 h2.boom{
   font-size: 4rem;
