@@ -83,7 +83,7 @@ h2.boom{
   }
 }
 
-@media(orientation:landscape max-width: 900px){
+@media(orientation:landscape) and (max-width: 900px){
   .pages{
     font-size: 1.8rem;
     margin: 5% 14%
