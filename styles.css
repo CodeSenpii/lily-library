@@ -1,6 +1,7 @@
 body{
-  background-image: url("https://thumbs.dreamstime.com/z/paper-background-flowers-d-paper-illustration-grayscal-grayscale-vector-eps-55406442.jpg");
+  /* background-image: url("https://thumbs.dreamstime.com/z/paper-background-flowers-d-paper-illustration-grayscal-grayscale-vector-eps-55406442.jpg"); */
   background-size: cover;
+  background-image: url(blue-sky.jpg);
 
 }
 h1{
