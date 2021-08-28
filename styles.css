@@ -79,13 +79,13 @@ h2.boom{
 @media(max-width: 900px){
   .pages{
     font-size: 1.8rem;
-    margin: 5% 13%
+    margin: 5% 13%;
   }
 }
 
-@media(orientation:landscape) and (max-width: 900px){
+@media (orientation:landscape) and (max-width: 900px){
   .pages{
     font-size: 1.8rem;
-    margin: 5% 14%
+    margin: 5% 14%;
   }
 }
