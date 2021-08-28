@@ -76,14 +76,15 @@ h2.boom{
   color: grey;
   font-family: serif;
 }
-@media(max-width: 900px){
+
+/* @media(max-width: 900px){
   .pages{
     font-size: 1.8rem;
     margin: 5% 13%;
   }
-}
+} */
 
-@media (orientation:landscape) and (max-width: 300px){
+@media (orientation: landscape) and (max-width: 800px), (max-width: 800px){
   .pages{
     font-size: 1.8rem;
     margin: 5% 14%;
