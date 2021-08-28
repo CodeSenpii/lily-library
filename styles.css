@@ -84,7 +84,7 @@ h2.boom{
   }
 } */
 
-@media (orientation: landscape) and (max-width: 800px), (max-width: 986px){
+@media (orientation: landscape) and (min-width: 967px), (max-width: 986px){
   .pages{
     font-size: 1.8rem;
     margin: 5% 14%;
