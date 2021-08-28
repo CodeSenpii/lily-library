@@ -1,6 +1,7 @@
 body{
   background-image: url("https://thumbs.dreamstime.com/z/paper-background-flowers-d-paper-illustration-grayscal-grayscale-vector-eps-55406442.jpg");
   background-size: cover;
+
 }
 h1{
   font-size: 2.5rem;
@@ -28,7 +29,7 @@ nav{
 
 }
 #story{
-  padding-top:0px;
+  padding-top:0;
 }
 #magicCarousel{
 
@@ -73,4 +74,9 @@ h2.boom{
   bottom: -100px;
   color: grey;
   font-family: serif;
+}
+@media(max-width: 900px){
+  .pages{
+    font-size: 1.8rem;
+  }
 }
