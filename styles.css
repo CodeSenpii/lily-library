@@ -81,3 +81,10 @@ h2.boom{
     margin: 5% 13%
   }
 }
+
+@media(orientation:landscape){
+  .pages{
+    font-size: 1.8rem;
+    margin: 5% 16%
+  }
+}
