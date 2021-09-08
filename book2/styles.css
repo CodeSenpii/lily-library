@@ -1,0 +1,92 @@
+body{
+  /* background-image: url("https://thumbs.dreamstime.com/z/paper-background-flowers-d-paper-illustration-grayscal-grayscale-vector-eps-55406442.jpg"); */
+  background-size: cover;
+  background-image: url(paper-flower.jpg);
+
+}
+h1{
+  font-size: 2.5rem;
+  line-height: 2;
+  font-family: cursive;
+  color: #fff;
+}
+h3{
+  font-size: 1rem;
+  font-family: cursive;
+  color: gold;
+}
+h2{
+  font-family: sans-serif;
+
+}
+nav{
+  background-color: #2e2e2e;
+
+}
+/* The id */
+#booktitle{
+  background-color: #2e2e2e;
+  padding: 20px 0;
+
+}
+#story{
+  padding-top:0;
+}
+#magicCarousel{
+
+}
+#inner-content{
+
+}
+/* the classes */
+.speed{
+  color:#fff;
+}
+.brand{
+  color:#fff;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  background-image: url();
+}
+h2.boom{
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+.nav-tabs{
+  position: absolute;
+  right: 10px;
+}
+.pages{
+  text-align: center;
+  margin: 10% 25%;
+  line-height: 3rem;
+  font-size: 2.5rem;
+  font-family: serif;
+  word-spacing: 10px;
+  position: relative;
+}
+.img-size{
+  height: 580px;
+}
+.page-num{
+  position: absolute;
+  bottom: -100px;
+  color: grey;
+  font-family: serif;
+}
+
+@media(max-width: 900px){
+  .pages{
+    font-size: 1.8rem;
+    margin: 5% 13%;
+  }
+}
+
+@media (orientation: landscape) and (max-width: 900px){
+  .pages{
+    font-size: 1.8rem;
+    margin: 5% 14%;
+  }
+}
