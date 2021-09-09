@@ -44,6 +44,7 @@ p{
   padding-top: 5%;
   margin: 10px 0;
 }
+
 .speed{
   color:#fff;
 }
@@ -73,13 +74,22 @@ h2.boom{
   position: relative;
 }
 .img-size{
-  height: 580px;
+  height: 599px;
+   /* box-shadow: 0 0 8px 8px white inset; */
 }
 .page-num{
   position: absolute;
   bottom: -100px;
   color: grey;
   font-family: serif;
+}
+.pages2{
+  font-family: serif;
+  font-size: 4.5rem;
+  display:inline-block;
+  margin-left: 2em;
+  font-family: cursive;
+
 }
 
 @media(max-width: 900px){
