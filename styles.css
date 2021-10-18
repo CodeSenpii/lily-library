@@ -23,6 +23,13 @@ nav{
   background-color: #2e2e2e;
 
 }
+span{
+  color: #76857a;
+}
+span:hover{
+  color:lightcoral;
+  cursor: pointer;
+}
 /* The id */
 #booktitle{
   background-color: #2e2e2e;
@@ -39,6 +46,20 @@ nav{
 
 }
 /* the classes */
+.tool-tip{
+  opacity: 0;
+  position: fixed;
+  top:0;
+  left: 0;
+  background: lightcoral;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 20px;
+  z-index: 1000;
+  border-radius: 10% 10%;
+  border: 1px solid #fff;
+}
+
 .speed{
   color:#fff;
 }
@@ -76,6 +97,7 @@ h2.boom{
   color: grey;
   font-family: serif;
 }
+
 
 @media(max-width: 900px){
   .pages{
